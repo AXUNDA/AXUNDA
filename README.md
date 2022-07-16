@@ -7,7 +7,7 @@ Full stack web developer
 I have been writing code for over 3 years,i specialise in back end technologies
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My PORTFOLIO](http://github.com/AXUNDA?tab=repositories)
+* 🖥️  See my portfolio at [💰💰💰💰💰](http://github.com/AXUNDA?tab=repositories)
 * ✉️  You can contact me at [Axundah@outlook.com](mailto:Axundah@outlook.com)
 * 🧠  I'm learning Flutter/Web3
 * 🤝  I'm open to collaborating on Interesting open source projects
